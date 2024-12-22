@@ -10,13 +10,6 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads per month][downloads-image]][downloads-url]
-[![GitHub Action Workflow Status][github-actions-workflow-image]][github-actions-workflow-url]
-
-
-<p align="center">
-    <img src="https://i.imgur.com/QeL1HuU.png" alt="drawing"/>
-</p>
-
 
 
 # Install the package
