@@ -1,0 +1,28 @@
+{
+  "name": "docfillx",
+  "version": "1.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "rdilshan",
+  "license": "MIT",
+  "description": "docfillx is a lightweight and efficient Node.js library that allows you to seamlessly insert dynamic values into Word template files and download the updated documents. Built with simplicity and versatility in mind, this library is perfect for generating customized Word documents like reports, certificates, or invoices.",
+  "devDependencies": {
+    "@types/file-saver": "^2.0.7",
+    "docxtemplater": "^3.55.8",
+    "file-saver": "^2.0.5",
+    "pizzip": "^3.1.7",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/file-saver": "^2.0.7",
+    "docxtemplater": "^3.55.8",
+    "file-saver": "^2.0.5",
+    "pizzip": "^3.1.7"
+  }
+
+}
