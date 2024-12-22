@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Rdilshan/docfillx/blob/main/public/logo.png" width="100%" height="300" alt="clippy the assistant">
+    <img src="https://github.com/Rdilshan/docfillx/blob/main/public/logo.png" width="100%"  alt="logo of docfillx">
 </p>
 
 <p align="center">
